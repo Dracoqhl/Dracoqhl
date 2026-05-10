@@ -17,7 +17,7 @@
 
 ---
 
-## 研究经历
+## 实习经历
 
 ### Microsoft Research Asia, MSRA  
 **Research Intern｜2024.12 - 2026.04**
@@ -26,7 +26,7 @@
 
 ---
 
-## 代表性论文
+## 论文工作
 
 ### NaDRO: Leveraging Dual-Reward Strategies for LLMs Training on Noisy Data  
 **NeurIPS 2025 Poster｜一作**  
@@ -56,8 +56,6 @@
 
 项目描述：作为业余爱好开发的博士生科研工作台，面向博士生任务管理与个人提升，通过定制化工具提升自己的工作效率。
 
-使用技术栈：Python, LLM, Vibe Coding
-
 项目链接：[GitHub链接](https://github.com/Dracoqhl/phd-workspace.git)
 
 ---
@@ -66,8 +64,6 @@
 
 项目描述：面向含噪复杂决策数据的大语言模型后训练框架，通过结果奖励与过程奖励相结合的方式，提升模型在复杂决策问题中的学习效率与泛化能力。
 
-使用技术栈：Python, PyTorch, LLM Post-training, RLVR, Decision Reasoning
-
 项目链接：[GitHub链接](https://github.com/microsoft/HeurAgenix/tree/NaDRO)
 
 ---
@@ -75,8 +71,6 @@
 ### 域泛化 Domain Generalization, DG 任务
 
 项目描述：23 年 SIGS 大数据机器学习课程大作业。我阅读并复现了多篇 ICCV、ECCV 和 CVPR 论文，最终整合三篇域泛化论文的创新点，在课程项目中取得了较高排名。
-
-使用技术栈：Python, PyTorch
 
 项目链接：[GitHub链接](https://github.com/Dracoqhl/DG_model)
 
